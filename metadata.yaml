@@ -1,0 +1,5 @@
+homepage: "https://albacross.com/reveal-api/"
+documentation: "https://albacross.com/reveal-api/"
+versions:
+  - sha: 260a34bb36899fdf72edc910b6167c76ceeff419
+    changeNotes: Initial release
